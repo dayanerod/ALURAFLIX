@@ -1,13 +1,13 @@
 body {
- beckground-color: rgb(247, 7, 7);
- color: rgb(0, 0, 0);
+ beckground-color: rgb(90, 0, 192);
+ color: rgb(163, 68, 241);
  font-family: "Trebuchet MS", "Comic Sans MS";
  margin: 0;
 }
 
 header {
  font-size: 60px;
- border-bottom: double 5px rgb(146, 28, 28);
+ border-bottom: double 5px rgb(231, 180, 255);
 padding: 6px;
 text-align: center;
 }
